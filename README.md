@@ -1,5 +1,6 @@
 # Motorcycles-and-Spare-parts-POS
-![dr1](https://user-images.githubusercontent.com/115998509/236704495-9a0b88a2-7aef-4e5f-9f7f-3c156e9b104d.jpg)
-![dr2](https://user-images.githubusercontent.com/115998509/236704501-6641a2fb-da84-459f-a3e2-c61ed29c4132.jpg)
-![dr3](https://user-images.githubusercontent.com/115998509/236704503-efa3a015-be88-4c6e-83d2-b829b5a03cbb.jpg)
-![dr4](https://user-images.githubusercontent.com/115998509/236704504-53dda04c-3c89-4a9a-9c8d-9f80cc7d0cc6.jpg)
+![dr1](https://user-images.githubusercontent.com/115998509/236706037-bfdb6f68-b7ce-40c0-97a7-25f1a0239db7.jpg)
+![dr2](https://user-images.githubusercontent.com/115998509/236706039-005dd5e0-a75b-4998-bc96-9008dd80d5a7.jpg)
+![dr3](https://user-images.githubusercontent.com/115998509/236706040-02da01e6-905a-465a-90a7-53cbfa1eb1cf.jpg)
+![dr4](https://user-images.githubusercontent.com/115998509/236706042-058676a8-484a-494f-9731-4b515274af43.jpg)
+
